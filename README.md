@@ -299,10 +299,11 @@ Selecting option 7 ends the program with a clean goodbye message.
 ## 👨‍💻 Author
 
 **Rensee Gajipara**
+
 📌 Python Developer | CLI Tool Builder
+
 📌 Developed a Multi-Utility Python Toolkit using Python Standard Libraries
+
 📌 Focused on modular programming, automation tools, and clean code practices
 
 ---
-
-*"Quality is our Motto."* ⭐
